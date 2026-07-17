@@ -1,1 +1,0 @@
-# VisionCare services package

@@ -1,1 +1,0 @@
-# VisionCare core package
